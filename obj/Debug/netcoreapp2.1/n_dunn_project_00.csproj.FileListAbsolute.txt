@@ -1,0 +1,11 @@
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\bin\Debug\netcoreapp2.1\n_dunn_project_00.deps.json
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\bin\Debug\netcoreapp2.1\n_dunn_project_00.runtimeconfig.json
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\bin\Debug\netcoreapp2.1\n_dunn_project_00.runtimeconfig.dev.json
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\bin\Debug\netcoreapp2.1\n_dunn_project_00.dll
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\bin\Debug\netcoreapp2.1\n_dunn_project_00.pdb
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.csprojAssemblyReference.cache
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.csproj.CoreCompileInputs.cache
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.AssemblyInfoInputs.cache
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.AssemblyInfo.cs
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.dll
+C:\Users\nated\Desktop\School\CEG-4180\Projects\n_dunn_project_00\n_dunn_project_00\n_dunn_project_00\obj\Debug\netcoreapp2.1\n_dunn_project_00.pdb
